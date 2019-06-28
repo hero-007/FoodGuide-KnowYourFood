@@ -1,0 +1,101 @@
+001.Apple pie
+002.Baby back ribs
+003.Baklava
+004.Beef carpaccio
+005.Beef tartare
+006.Beet salad
+007.Beignets
+008.Bibimbap
+009.Bread pudding
+010.Breakfast burrito
+011.Bruschetta
+012.Caesar salad
+013.Cannoli
+014.Caprese salad
+015.Carrot cake
+016.Ceviche
+017.Cheesecake
+018.Cheese plate
+019.Chicken curry
+020.Chicken quesadilla
+021.Chicken wings
+022.Chocolate cake
+023.Chocolate mousse
+024.Churros
+025.Clam chowder
+026.Club sandwich
+027.Crab cakes
+028.Creme brulee
+029.Croque madame
+030.Cup cakes
+031.Deviled eggs
+032.Donuts
+033.Dumplings
+034.Edamame
+035.Eggs benedict
+036.Escargots
+037.Falafel
+038.Filet mignon
+039.Fish and chips
+040.Foie gras
+041.French fries
+042.French onion soup
+043.French toast
+044.Fried calamari
+045.Fried rice
+046.Frozen yogurt
+047.Garlic bread
+048.Gnocchi
+049.Greek salad
+050.Grilled cheese sandwich
+051.Grilled salmon
+052.Guacamole
+053.Gyoza
+054.Hamburger
+055.Hot and sour soup
+056.Hot dog
+057.Huevos rancheros
+058.Hummus
+059.Ice cream
+060.Lasagna
+061.Lobster bisque
+062.Lobster roll sandwich
+063.Macaroni and cheese
+064.Macarons
+065.Miso soup
+066.Mussels
+067.Nachos
+068.Omelette
+069.Onion rings
+070.Oysters
+071.Pad thai
+072.Paella
+073.Pancakes
+074.Panna cotta
+075.Peking duck
+076.Pho
+077.Pizza
+078.Pork chop
+079.Poutine
+080.Prime rib
+081.Pulled pork sandwich
+082.Ramen
+083.Ravioli
+084.Red velvet cake
+085.Risotto
+086.Samosa
+087.Sashimi
+088.Scallops
+089.Seaweed salad
+090.Shrimp and grits
+091.Spaghetti bolognese
+092.Spaghetti carbonara
+093.Spring rolls
+094.Steak
+095.Strawberry shortcake
+096.Sushi
+097.Tacos
+098.Takoyaki
+099.Tiramisu
+100.Tuna tartare
+101.Waffles
