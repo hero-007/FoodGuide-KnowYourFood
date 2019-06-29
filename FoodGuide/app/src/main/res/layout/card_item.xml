@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="12dp"
+        app:cardCornerRadius="20dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="8dp">
+
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/baklava"
+
+                />
+
+            <TextView
+
+                android:id="@+id/title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/imageView"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:text="Recipe"
+
+                android:textAllCaps="true"
+                android:textAlignment="center"
+                android:textColor="#262626"
+                android:textSize="20sp"
+
+                />
+
+            <TextView
+                android:id="@+id/ingredients"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/Ingiedients_label"
+                android:layout_marginLeft="8dp"
+                android:textColor="#262626"
+                android:drawablePadding="16dp"
+                android:ellipsize="end"
+                android:textAlignment="center"
+                android:scrollbars="vertical"
+                android:text="Ingredients" />
+
+            <TextView
+                android:id="@+id/Ingiedients_label"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/title"
+                android:layout_marginLeft="8dp"
+                android:drawablePadding="10dp"
+                android:textColor="#262626"
+                android:ellipsize="end"
+                android:textSize="18sp"
+                android:textAlignment="center"
+                android:scrollbars="vertical"
+                android:text="Ingredients"
+                />
+            <TextView
+                android:id="@+id/Recipe_label"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/ingredients"
+                android:layout_marginLeft="8dp"
+                android:drawablePadding="10dp"
+                android:textColor="#262626"
+                android:ellipsize="end"
+                android:textSize="18sp"
+                android:textAlignment="center"
+                android:scrollbars="vertical"
+                android:text="Recipe"
+                />
+
+
+            <TextView
+                android:id="@+id/recipe"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/Recipe_label"
+                android:layout_marginLeft="8dp"
+                android:drawablePadding="10dp"
+                android:textColor="#262626"
+                android:ellipsize="end"
+                android:textSize="16sp"
+                android:textAlignment="center"
+                android:scrollbars="vertical"
+                android:text="Recipe Data" />
+        </RelativeLayout>
+
+
+    </android.support.v7.widget.CardView>
+</LinearLayout>
+
+
+
+
+
+
